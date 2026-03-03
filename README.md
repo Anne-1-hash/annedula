@@ -17,6 +17,3 @@ Welcome to my GitHub! I explore infrastructure, automation, and cloud-native too
 - DevContainer setup scripts
 - CI for semantic versioning & badge updates
 - Multi-account Terraform patterns
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Anne-1-Hash)
